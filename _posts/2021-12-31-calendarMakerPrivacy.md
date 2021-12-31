@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+categories: [calendarMaker]
+tags: []
+published: true
+---
 <!-- Output copied to clipboard! -->
 
 <!-----
