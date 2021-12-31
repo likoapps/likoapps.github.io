@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Privacy Policy
 categories: [calendarMaker]
 tags: [privacy]
