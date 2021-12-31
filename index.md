@@ -1,4 +1,4 @@
-## [liko apps](https://www.instagram.com/likoapps/)
+### [@likoapps](https://www.instagram.com/likoapps/)
 
 ### Our apps
 * Photo Calendar Maker+
