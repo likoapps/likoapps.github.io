@@ -3,6 +3,7 @@ title: Privacy Policy
 categories: [calendarMaker]
 tags: []
 published: true
+permalink: /calendarMaker/privacy
 ---
 <!-- Output copied to clipboard! -->
 
