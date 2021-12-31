@@ -3,7 +3,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.329 seconds.
+Conversion time: 0.287 seconds.
 
 
 Using this Markdown file:
@@ -16,85 +16,48 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β31
-* Fri Dec 31 2021 02:43:13 GMT-0800 (PST)
-* Source doc: Photo Calendar Maker! - 개인정보 처리방침 (KR)
+* Fri Dec 31 2021 02:47:40 GMT-0800 (PST)
+* Source doc: Photo Calendar Maker! - Privacy Policy (EN)
 * Tables are currently converted to HTML tables.
 ----->
 
 
-# 개인정보 처리방침
+# Privacy Policy
 
 
 ```
-
-
-해당 페이지는 리코앱스(liko apps) (대표 Junhyun Song) 에서 서비스하는 
-포토 캘린더 메이커+(Photo Calendar Maker+)의 개인정보 처리방침입니다.
-
-최초 작성 : 2021년 12월 30일
-마지막 개정 : 2021년 12월 30일
-
+This page is the privacy policy of Photo Calendar Maker+ serviced by liko apps(CEO Junhyun Song).
+This policy is effective as of 2021-12-29
 ```
 
 
-리코앱스(liko apps, 이하 ‘당사') (대표Junhyun Song)의 어플리케이션은 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다. 당사는 개인정보 처리방침을 수시로 업데이트할 수 있습니다. 당사는 개인정보처리방침을 개정하는 경우 앱 화면 및 웹사이트 공지사항을 통하여 공지할 것입니다.
+liko apps(CEO: Junhyun Song) built the Photo Calendar Maker+ app as an Ad Supported app. This service is provided by liko apps and can be downloaded and used without payment through the App Store.
 
-당사는 포토 캘린더 메이커+ 앱을 광고 지원 앱으로 구축했으며, 앱스토어를 통해 무료 다운로드 및 이용하실 수 있습니다. 포토 캘린더 메이커+ 앱을 사용하시는 경우 해당 개인정보 처리방침에 동의한 것으로 간주합니다. 당사는 해당 개인정보 처리방침에 설명한 내용을 제외하고 귀하의 정보를 사용하거나 공유하지 않습니다.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-## 1. 개인정보의 처리 목적
+## Information Collection and Use
 
-본 어플리케이션은 개인정보를 수집하지 않는 독립 실행형 어플리케이션으로 별도의 서버를 운영하거나 정보를 수집하지 않습니다. 당사는 iOS 서비스 기능을 이용하기 위한 기능과 리워드용 광고서비스 등에서 특정 개인과 직접적인 관련이 없는, 개인식별이 불가능한 정보를 수집할 수 있습니다. 당사에서 개인정보를 별도로 저장하거나 이용하지 않습니다.
+Any content you create in the Photo Calendar Maker+ app is kept only on your device. liko apps do not operate a separate server to store user-written content. Therefore, liko apps do not own or collect user-generated content.
 
-## 2. 개인정보 파일 현황
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The app does use third-party services that may collect information used to identify you.
 
-당사는 별도의 개인정보 파일을 사용하지 않으며 저장하지도 않습니다. 당사는 쿠키를 저장하지 않으며 이용하지 않습니다. 단, 스토어 서비스가 이용하는 정보 및 광고서비스가 이용하는 정보는 해당 서비스의 SDK를 거쳐 이용하게 됩니다. 이는 당사에 저장되는 정보가 아닙니다. 이용자가 이에 대해 의문이 있다면 해당 서비스(애플 및, 각 광고 미디어)로 직접 연락해야 합니다.
+Link to the privacy policy of third-party service providers used by the app
 
-## 3. 개인정보의 처리 및 보유기간
-
-당사는 개인정보를 직접적으로 저장하거나 보유하지 않습니다. 당사의 어플리케이션은 모두 해당 미디어서비스(애플,광고미디어)의 SDK를 통해 간접적으로 이용합니다. 따라서 당사는 이용자의 개인정보를 처리하는 내용도 보유기간도 없습니다.
-
-## 4. 개인정보의 제3자 제공에 관한 사항
-
- 당사는 개인정보를 제3자에게 제공하지 않고 있습니다.
-
-## 5. 개인정보처리 위탁
-
- 당사는 개인정보를 위탁하고 있지않습니다.
-
-
-## 6.정보주체의 권리, 의무 및 그 행사방법
-
-이용자는 개인정보주체로서 권리 행사할 수 있습니다.
-
-### 1) 개인정보 열람요구
-
-### 2) 오류 등이 있을 경우 정정 요구
-
-### 3) 삭제요구
-
-### 4) 처리 정지 요구
-
-당사는 개인정보를 저장하거나 위탁하지 않습니다.
-
-## 7. 개인정보의 파기
-
-당사의 어플리케이은 독립 실행 방식의 어플리케이션으로 별도의 서버를 사용하지 않고있습니다. 또한 개인정보를 저장하지 않으므로 파기할 것이 없습니다. 그러나 사용자가 원할 경우 어플리케이션을 '삭제'함으로서 모든 데이터를 파기할 수 있습니다.
-
-## 8. 타사 모듈 사용에 대한 안내
-
-광고 제공 및 보다 나은 앱 경험을 위해 아래의 타사 서비스를 이용하고 있습니다.
-
-[타사 서비스 공급자의 개인정보 처리방침 링크]
 
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-## 9. 다른 사이트에 대한 링크
+## Links to Other Sites
 
-본 서비스에는 다른 사이트에 대한 링크가 포함될 수 있습니다. 타사 링크를 클릭하면 해당 사이트로 이동합니다. 이러한 외부 사이트는 당사에서 운영하지 않습니다. 따라서 이러한 웹 사이트의 개인 정보 보호 정책을 검토할 것을 강력히 권장합니다. 당사는 3자 사이트 또는 서비스의 콘텐츠, 개인 정보 처리방침 또는 관행에 대해 어떠한 통제도 할 수 없으며 책임을 지지 않습니다.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-# Contact Us
+## Changes to This Privacy Policy
 
-개인정보 보호방침에 대한 질문이나 제안사항이 있다면 언제든지 문의주세요.
-[likoapps+privacy@gmail.com](mailto:likoapps+privacy@gmail.com)
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+
+## Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at likoapps+privacy@gmail.com.
+
+
