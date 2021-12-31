@@ -26,14 +26,11 @@ Conversion notes:
 
 
 ```
-
-
 해당 페이지는 리코앱스(liko apps) (대표 Junhyun Song) 에서 서비스하는 
 포토 캘린더 메이커+(Photo Calendar Maker+)의 개인정보 처리방침입니다.
 
 최초 작성 : 2021년 12월 30일
 마지막 개정 : 2021년 12월 30일
-
 ```
 
 
