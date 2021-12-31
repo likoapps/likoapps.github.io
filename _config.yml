@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-domain: likoapps.github.io
+url: https://likoapps.github.io
+baseurl: /
 title: liko apps
 description: We make small and cute apps!
 
