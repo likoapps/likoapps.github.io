@@ -4,3 +4,5 @@ baseurl: /
 title: liko apps
 description: We make small and cute apps!
 
+
+permalink: /:test/
