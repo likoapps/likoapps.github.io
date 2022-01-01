@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 url: https://likoapps.github.io
 baseurl: /
 title: liko apps
-description: We\'re small team of making apps for iPhone, iPad and Apple Watch.
+description: We are small team of making apps for iPhone, iPad and Apple Watch.
 
 
 permalink: /:test/
