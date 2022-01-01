@@ -1,7 +1,6 @@
 ---
+layout: post
 title: Privacy Policy
-categories: [calendarMaker]
-tags: [privacy]
 published: true
 ---
 <!-- Output copied to clipboard! -->
