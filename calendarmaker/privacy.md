@@ -1,3 +1,7 @@
+---
+description: "Photo Calendar Maker+"
+---
+
 <!-- Output copied to clipboard! -->
 
 <!-----
@@ -23,7 +27,6 @@ Conversion notes:
 
 
 # Privacy Policy
-
 
 ```
 This page is the privacy policy of Photo Calendar Maker+ serviced by liko apps(CEO Junhyun Song).
