@@ -4,5 +4,5 @@ baseurl: /
 title: liko apps
 description: We are small team of making apps for iPhone, iPad and Apple Watch.
 
-exclude:
-  - app-ads.txt
+# exclude:
+#  - app-ads.txt
