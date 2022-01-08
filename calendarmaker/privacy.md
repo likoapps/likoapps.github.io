@@ -28,11 +28,9 @@ Conversion notes:
 
 # Privacy Policy
 
-```
-This page is the privacy policy of Photo Calendar Maker+ serviced by liko apps(CEO Junhyun Song).
-This policy is effective as of 2021-12-29
-```
-
+- This page is the privacy policy of Photo Calendar Maker+ serviced by liko apps(CEO Junhyun Song).
+- This policy is effective as of 2021-12-29
+<br><br>
 
 liko apps(CEO: Junhyun Song) built the Photo Calendar Maker+ app as an Ad Supported app. This service is provided by liko apps and can be downloaded and used without payment through the App Store.
 
