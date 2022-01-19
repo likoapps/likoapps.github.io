@@ -1,5 +1,5 @@
 ---
-description: "포토 캘린더 메이커+(Photo Calendar Maker+)"
+description: "CALMAKER - 포토 캘린더 메이커"
 ---
 <!-- Output copied to clipboard! -->
 
@@ -30,7 +30,7 @@ Conversion notes:
 
 
 - 해당 페이지는 리코앱스(liko apps) (대표 Junhyun Song) 에서 서비스하는 
-- 포토 캘린더 메이커+(Photo Calendar Maker+)의 개인정보 처리방침입니다.
+- 'CALMAKER - 포토 캘린더 메이커'의 개인정보 처리방침입니다.
 <br>
 
 - 최초 작성 : 2021년 12월 30일
@@ -40,7 +40,7 @@ Conversion notes:
 
 리코앱스(liko apps, 이하 ‘당사') (대표Junhyun Song)의 어플리케이션은 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다. 당사는 개인정보 처리방침을 수시로 업데이트할 수 있습니다. 당사는 개인정보처리방침을 개정하는 경우 앱 화면 및 웹사이트 공지사항을 통하여 공지할 것입니다.
 
-당사는 포토 캘린더 메이커+ 앱을 광고 지원 앱으로 구축했으며, 앱스토어를 통해 무료 다운로드 및 이용하실 수 있습니다. 포토 캘린더 메이커+ 앱을 사용하시는 경우 해당 개인정보 처리방침에 동의한 것으로 간주합니다. 당사는 해당 개인정보 처리방침에 설명한 내용을 제외하고 귀하의 정보를 사용하거나 공유하지 않습니다.
+당사는 CALMAKER - 포토 캘린더 메이커 앱을 광고 지원 앱으로 구축했으며, 앱스토어를 통해 무료 다운로드 및 이용하실 수 있습니다. CALMAKER - 포토 캘린더 메이커 앱을 사용하시는 경우 해당 개인정보 처리방침에 동의한 것으로 간주합니다. 당사는 해당 개인정보 처리방침에 설명한 내용을 제외하고 귀하의 정보를 사용하거나 공유하지 않습니다.
 
 ## 1. 개인정보의 처리 목적
 
@@ -86,6 +86,8 @@ Conversion notes:
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+* [AdColony](https://www.adcolony.com/privacy-policy/)
 
 ## 9. 다른 사이트에 대한 링크
 
