@@ -1,6 +1,6 @@
 
 ---
-description: "CALMAKER+"
+description: "CALMAKER: Photo Calendar Maker"
 ---
 
 # Privacy Policy
