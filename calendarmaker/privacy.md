@@ -1,44 +1,21 @@
+
 ---
-description: "Photo Calendar Maker+"
+description: "CALMAKER+"
 ---
-
-<!-- Output copied to clipboard! -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.287 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β31
-* Fri Dec 31 2021 02:47:40 GMT-0800 (PST)
-* Source doc: Photo Calendar Maker! - Privacy Policy (EN)
-* Tables are currently converted to HTML tables.
------>
-
 
 # Privacy Policy
 
-- This page is the privacy policy of Photo Calendar Maker+ serviced by liko apps(CEO Junhyun Song).
-- This policy is effective as of 2021-12-29
+- This page is the privacy policy of CALMAKER: Photo Calendar Maker serviced by liko apps(CEO Junhyun Song).
+- This policy is effective as of 2022-01-19
 <br><br>
 
-liko apps(CEO: Junhyun Song) built the Photo Calendar Maker+ app as an Ad Supported app. This service is provided by liko apps and can be downloaded and used without payment through the App Store.
+liko apps(CEO: Junhyun Song) built the  CALMAKER: Photo Calendar Maker App as an Ad Supported app. This service is provided by liko apps and can be downloaded and used without payment through the App Store.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ## Information Collection and Use
 
-Any content you create in the Photo Calendar Maker+ app is kept only on your device. liko apps do not operate a separate server to store user-written content. Therefore, liko apps do not own or collect user-generated content.
+Any content you create in the  CALMAKER: Photo Calendar Maker App is kept only on your device. liko apps do not operate a separate server to store user-written content. Therefore, liko apps do not own or collect user-generated content.
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The app does use third-party services that may collect information used to identify you.
 
@@ -48,6 +25,8 @@ Link to the privacy policy of third-party service providers used by the app
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+* [AdColony](https://www.adcolony.com/privacy-policy/)
 
 ## Links to Other Sites
 
