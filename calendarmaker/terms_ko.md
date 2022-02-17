@@ -8,7 +8,7 @@ description: "CALMAKER - 포토 캘린더 메이커"
   
 
 - 최초 작성 : 2021년 12월 30일
-- 마지막 개정 : 2022년 01월 21일
+- 마지막 개정 : 2022년 02월 18일
 
   
 
@@ -29,6 +29,7 @@ CALMAKER - 포토 캘린더 메이커 ("CALMAKER") 앱은 서비스 제공을 �
 -   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 -   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 -   [AdColony](https://www.adcolony.com/privacy-policy/)
+-   [AppLovin](https://www.applovin.com/privacy/)
     
 
 liko apps가 책임지지 않는 특정 사항이 있음을 알고 있어야 합니다. 앱의 특정 기능은 앱이 인터넷에 연결되어 있어야 합니다. 연결은 Wi-Fi일 수도 있고 이동통신사가 제공할 수도 있지만, Wi-Fi에 액세스할 수 없고 데이터 허용량이 남아 있지 않을 경우 앱이 제대로 작동하지 않는 부분에 대한 책임은 liko apps에서 질 수 없습니다.
