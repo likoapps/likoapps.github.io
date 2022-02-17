@@ -5,7 +5,7 @@ description: "CALMAKER: Photo Calendar Maker"
 # Terms & Conditions
 
 - This page is the terms and conditions of CALMAKER: Photo Calendar Maker serviced by liko apps(CEO Junhyun Song).
-- These terms and conditions are effective as of 2022-01-21
+- These terms and conditions are effective as of 2022-02-18
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to liko apps.
 
@@ -24,7 +24,7 @@ Link to Terms and Conditions of third-party service providers used by the app
 -   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 -   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 -   [AdColony](https://www.adcolony.com/privacy-policy/)
-    
+-   [AppLovin](https://www.applovin.com/privacy/)
 
   
 You should be aware that there are certain things that liko apps will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but liko apps cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
