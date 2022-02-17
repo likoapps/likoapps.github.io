@@ -34,7 +34,7 @@ Conversion notes:
 <br>
 
 - 최초 작성 : 2021년 12월 30일
-- 마지막 개정 : 2021년 12월 30일
+- 마지막 개정 : 2022년 2월 18일
 <br><br>
 
 
@@ -88,6 +88,7 @@ Conversion notes:
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [AdColony](https://www.adcolony.com/privacy-policy/)
+* [AppLovin](https://www.applovin.com/privacy/)
 
 ## 9. 다른 사이트에 대한 링크
 
