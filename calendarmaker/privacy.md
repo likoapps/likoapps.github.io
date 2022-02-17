@@ -5,7 +5,7 @@ description: "CALMAKER: Photo Calendar Maker"
 # Privacy Policy
 
 - This page is the privacy policy of CALMAKER: Photo Calendar Maker serviced by liko apps(CEO Junhyun Song).
-- This policy is effective as of 2022-01-19
+- This policy is effective as of 2022-02-18
 <br><br>
 
 liko apps(CEO: Junhyun Song) built the  CALMAKER: Photo Calendar Maker App as an Ad Supported app. This service is provided by liko apps and can be downloaded and used without payment through the App Store.
@@ -26,6 +26,7 @@ Link to the privacy policy of third-party service providers used by the app
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [AdColony](https://www.adcolony.com/privacy-policy/)
+* [AppLovin](https://www.applovin.com/privacy/)
 
 ## Links to Other Sites
 
