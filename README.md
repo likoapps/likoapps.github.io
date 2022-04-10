@@ -2,3 +2,4 @@
 
 ### Our apps
 * Photo Calendar Maker+
+* Highscore: Workout
