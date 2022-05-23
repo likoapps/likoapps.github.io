@@ -4,7 +4,7 @@
     "imageURLString":"https://likoapps.github.io/apps/likoapps.png"
   },
   "instagramInfo":{
-    "url":"https://www.instagram.com/likoapps/",
+    "urlString":"https://www.instagram.com/likoapps/",
     "infos":{
       "en":{
         "title":"Our Instagram @likoapps",
