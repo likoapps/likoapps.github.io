@@ -43,7 +43,7 @@
     {
       "iconImageURLString":"https://likoapps.github.io/apps/highscore.png",
       "appURLString":"https://apps.apple.com/app/id1617645877",
-      "appIdentifier":"com.likoapps.photoCalendarMaker",
+      "appIdentifier":"com.likoapps.highScoreWorkoutSession",
       "infos":{
         "en":{
           "title":"HighScore: Workout",
