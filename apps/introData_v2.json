@@ -59,6 +59,25 @@
           "description":"運動結果をスコアに！"
         }
       }
+    },
+    {
+      "iconImageURLString":"https://likoapps.github.io/apps/emojibox.png",
+      "appURLString":"https://apps.apple.com/app/id1624326541",
+      "appIdentifier":"com.likoapps.emojiBox",
+      "infos":{
+        "en":{
+          "title":"EmojiBox: Face Sticker",
+          "description":"Cover face, Show emotions"
+        },
+        "ko":{
+          "title":"EMOJIBOX 이모지박스",
+          "description":"자동식별로 얼굴 가리기"
+        },
+        "ja":{
+          "title":"EMOJIBOX 絵文字ボックス",
+          "description":"自動顔識別で顔かくしスタンプ"
+        }
+      }
     }
   ]
 }
