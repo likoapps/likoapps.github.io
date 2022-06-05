@@ -9,6 +9,7 @@ description: "EmojiBox"
 Thank you for using the service of liko apps (CEO Junhyun Song)(“Company”). 
 
 This page is the privacy policy of EmojiBox: Face Sticker(or EMOJIBOX, emojibox, EmojiBox, "Service”) serviced by liko apps(CEO Junhyun Song). This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
 These terms and conditions are effective as of 2022-06-04
  
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. Therefore, you should read its privacy policy carefully before using the app. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
