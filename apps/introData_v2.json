@@ -66,16 +66,16 @@
       "appIdentifier":"com.likoapps.emojiBox",
       "infos":{
         "en":{
-          "title":"EmojiBox: Face Sticker",
+          "title":"EMOJIBOX: Face Sticker",
           "description":"Cover face, Show emotions"
         },
         "ko":{
           "title":"EMOJIBOX 이모지박스",
-          "description":"자동식별로 얼굴 가리기"
+          "description":"자동 얼굴인식 스티커, 이모지로 얼굴 가리기!"
         },
         "ja":{
-          "title":"EMOJIBOX 絵文字ボックス",
-          "description":"自動顔識別で顔かくしスタンプ"
+          "title":"絵文字ボックス EMOJIBOX",
+          "description":"自動識別で顔かくしスタンプ"
         }
       }
     }
