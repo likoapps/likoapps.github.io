@@ -2,7 +2,6 @@
 description: "EMOJIBOX: Face Sticker - Terms & Conditions"
 ---
 
-# EMOJIBOX: Face Sticker
 # Terms & Conditions
 
 Thank you for using the service of liko apps (CEO Junhyun Song, “Company” or “liko apps”). 
