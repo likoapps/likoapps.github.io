@@ -1,5 +1,5 @@
 ---
-description: "EMOJIBOX: Face Sticker"
+description: "EMOJIBOX: Face Sticker - Terms & Conditions"
 ---
 
 # EMOJIBOX: Face Sticker
