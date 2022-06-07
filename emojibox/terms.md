@@ -127,10 +127,10 @@ The Service contains emoji, emoji fonts, and face sticker content (“Emoji Cont
 
 In addition, the following actions are prohibited.
 
- - 1.  Selling User Content itself for a fee
- - 2.  The act of registering intellectual property rights such as trademark rights and design rights for User Content
- - 3.  Submission of secondary works using User Content in exhibitions and competitions
- - 4.  Creating User Content in a manner that undermines social morals
+ - 1.Selling User Content itself for a fee
+ - 2.The act of registering intellectual property rights such as trademark rights and design rights for User Content
+ - 3.Submission of secondary works using User Content in exhibitions and competitions
+ - 4.Creating User Content in a manner that undermines social morals
 
 If the user does not agree to the terms and conditions, the user must stop using the service. By using the service, you agree to all terms and conditions. Users understand and accept responsibility for User Content, including any consequences that may arise when using the Products and Services. The Company is not responsible for any problems arising from the user's violation of the terms and conditions. These terms and conditions may be modified in accordance with third-party licensing conditions and policy changes, which may restrict the use of Emoji Content and may terminate the use of the Emoji Content within the service.
 
