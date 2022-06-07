@@ -110,31 +110,55 @@ In case the company reasonably determines that it is necessary other than those 
 - (2) The company does not bear any responsibility for any problems that arise while the user uses the service provided by a third party.
 - (3) The company is not responsible for any errors in payment, refund, or purchase cancellation that occur in the course of the user using the service provided by the third party, and the user must comply with the policy and procedure of the service provider. You must resolve the issue with your service provider.
 
-## 17. Termination of Contract
+## 17. Copyright Policy
+
+- (1) The Company respects the intellectual property rights of others and expects Users to do the same. The Company will respond appropriately to notices of alleged copyright infringement in accordance with applicable law.
+
+- (2) If it is determined that your or your company’s content has been used in a way that constitutes copyright infringement, you may request measures such as deletion of the content in accordance with relevant laws, such as the Copyright Act.
+
+- (3) Terms and Conditions for Emoji Content
+
+You acknowledge and agree that the Company and its third party licensors own the Content on the Service and all copyrights and all other rights, titles and interests in and to that Content.
+
+The Service contains emoji, emoji fonts, and face sticker content (“Emoji Content”) that are copyright and all rights reserved by third party licensors, but are available subject to permission and conditions. All rights in and to the Content belong to the third party licensors who provided it, and you must agree to and abide by their respective licenses and terms of use.
+
+* [Tossface](https://toss.im/tossface/copyright)
+* [Twemoji](https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS)
+
+In addition, the following actions are prohibited.
+
+ - 1.  Selling User Content itself for a fee
+ - 2.  The act of registering intellectual property rights such as trademark rights and design rights for User Content
+ - 3.  Submission of secondary works using User Content in exhibitions and competitions
+ - 4.  Creating User Content in a manner that undermines social morals
+
+If the user does not agree to the terms and conditions, the user must stop using the service. By using the service, you agree to all terms and conditions. Users understand and accept responsibility for User Content, including any consequences that may arise when using the Products and Services. The Company is not responsible for any problems arising from the user's violation of the terms and conditions. These terms and conditions may be modified in accordance with third-party licensing conditions and policy changes, which may restrict the use of Emoji Content and may terminate the use of the Emoji Content within the service.
+
+## 18. Termination of Contract
 - (1) You may stop using the Service at any time. The Emoji Box app service does not have a separate membership registration and withdrawal process, and if you do not want to use the service at any time, you can cancel the contract by stopping or deleting the app.
 - (2) If a user commits an act that is in violation of the terms of use and operation policy, the user may terminate the contract of use or suspend the use of the service. In the event of termination or suspension of the contract of use, the user cannot use the downloaded content, and the previously paid data call fee and monthly service fee cannot be returned.
 
-## 18. Compensation for Damages
+## 19. Compensation for Damages
 - (1) The company is not responsible for any damages incurred to users in connection with the use of free services provided by the company.
 - (2) In the event that damage to the company occurs due to the user's violation of the provisions of these terms and conditions, the user who violates these terms and conditions is responsible for compensating for all damages to the company. If the company receives various objections, including claims for damages or lawsuits, from a third party other than the user due to illegal acts performed by the user while using the service or violation of these terms and conditions, the user shall be responsible for the company In case the company is not indemnified, the user is responsible for compensating for all damages incurred by the company.
 - (3) When the company enters into a partnership agreement with an individual service provider and provides individual services to users, if the user agrees to the individual service terms and conditions and then incurs any damage due to a cause attributable to the individual service provider, the individual service provider is responsible for
 
 
-## 19. Our Disclaimer of Warranties.
+## 20. Our Disclaimer of Warranties.
 - (1) You acknowledge and agree that by accessing or using the Services, you may be exposed to materials from others that you may consider offensive, indecent, or otherwise objectionable, and agree to accept that risk. Views expressed on our website or through our Services do not necessarily reflect our views. We do not support or endorse certain content posted by you or other users. Certain content from others may be incorrectly labeled, rated, or categorized.
 - (2) Although we do what we can to provide security measures to protect your content, we are not liable for any damages resulting from the disclosure of your content.
 - (3) Disclaimer of Warranties: YOU EXPRESSLY UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES AND SNOW MATERIALS ARE PROVIDED TO YOU “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. FOR EXAMPLE, WE MAKE NO WARRANTY THAT (a) THE SERVICES OR MATERIALS WILL MEET YOUR REQUIREMENTS OR WILL BE CONSTANTLY AVAILABLE, UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (b) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE, SERVICES, OR MATERIALS WILL BE EFFECTIVE, ACCURATE, OR RELIABLE; OR THAT (c) ANY ERRORS OR DEFECTS IN THE SITE, SERVICES, OR MATERIALS WILL BE CORRECTED.
 
-## 20. Our Limitation of Liability.
+## 21. Our Limitation of Liability.
 Except where prohibited by law, in no event will the Company be liable for any indirect, special, punitive, incidental, exemplary, or consequential damages that result from (a) the use of, or inability to use, the Services; (b) the provision of the Services or any materials available therein; or (c) the conduct of other users of the Services, even if the Company has been advised of the possibility of such damages. You assume total responsibility for your use of the Services. Your only remedy against the Company for dissatisfaction with the Services or any content is to stop using the Services. Some jurisdictions do not allow limitations of liability, so the foregoing limitation may not apply to you.
 
-## 21. Jurisdiction and Governing Law
+## 22. Jurisdiction and Governing Law
 - (1) Lawsuits filed between the company and users shall be governed by the laws of the Republic of Korea.
 - (2) If a user files a lawsuit against the company in relation to the use of the service, the court in accordance with the Civil Procedure Act of the Republic of Korea shall be the competent court.
 - (3) The Korean version of these Terms & Conditions is the version used when interpreting or construing this Agreement.
 
 ---
-Effective: JUNE 4, 2022
+Effective: JUNE 7, 2022
 
 
 Contact Us
