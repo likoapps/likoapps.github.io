@@ -1,15 +1,15 @@
 ---
-description: "EmojiBox: Face Sticker"
+description: "EMOJIBOX: Face Sticker"
 ---
 
-# EmojiBox: Face Sticker
+# EMOJIBOX: Face Sticker
 # Terms & Conditions
 
 Thank you for using the service of liko apps (CEO Junhyun Song, “Company” or “liko apps”). 
 Downloading or using the app automatically applies these terms and conditions. Therefore, you should read the terms and conditions carefully before using the app.
 
 ## 1. Purpose of Terms & Conditions
-EmojiBox: Face Sticker Terms and Conditions are written to stipulate the conditions and procedures, rights, obligations, responsibilities, and other necessary matters between the company and the user regarding the use of the EmojiBox: Face Sticker app service(or EMOJIBOX, emojibox, EmojiBox, "Service”)  between the company and the user in relation to the EMOJIBOX service provided by liko apps.
+EMOJIBOX: Face Sticker Terms and Conditions are written to stipulate the conditions and procedures, rights, obligations, responsibilities, and other necessary matters between the company and the user regarding the use of the EMOJIBOX: Face Sticker app service(or EMOJIBOX, emojibox, EmojiBox, "Service”)  between the company and the user in relation to the EMOJIBOX service provided by liko apps.
 
 ## 2. Definition of terms
 Definitions of terms used in these terms and conditions are as follows.
