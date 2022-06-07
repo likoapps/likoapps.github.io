@@ -1,8 +1,6 @@
 ---
-description: "EmojiBox"
+description: "EMOJIBOX: Privacy Policy"
 ---
-
-# EmojiBox: Face Sticker 
 
 # Privacy Policy
 
