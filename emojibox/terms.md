@@ -158,8 +158,8 @@ Except where prohibited by law, in no event will the Company be liable for any i
 - (3) The Korean version of these Terms & Conditions is the version used when interpreting or construing this Agreement.
 
 ---
-Effective: JUNE 7, 2022
+### Effective: JUNE 7, 2022
 
 
-Contact Us
+### Contact Us
 If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at likoapps+terms@gmail.com.
