@@ -1,0 +1,82 @@
+{
+  "instagramInfo":{
+    "imageURLString":"https://likoapps.github.io/apps/likoapps.png",
+    "urlString":"https://www.instagram.com/likoapps/",
+    "infos":{
+      "en":{
+        "title":"Our Instagram @likoapps",
+        "description":"https://www.instagram.com/likoapps"
+      },
+      "ko":{
+        "title":"인스타그램 @likoapps 팔로우",
+        "description":"https://www.instagram.com/likoapps"
+      },
+      "ja":{
+        "title":"インスタグラムで@likoappsをフォロー",
+        "description":"https://www.instagram.com/likoapps"
+      }
+    }
+  },
+  "appDatas":[
+    {
+      "iconImageURLString":"https://likoapps.github.io/apps/emojibox.png",
+      "appURLString":"https://apps.apple.com/app/id1624326541",
+      "appIdentifier":"com.likoapps.emojiBox",
+      "appScheme":"emojibox",
+      "infos":{
+        "en":{
+          "title":"EMOJIBOX: Face Sticker",
+          "description":"Cover face, Show emotions"
+        },
+        "ko":{
+          "title":"EMOJIBOX 이모지박스",
+          "description":"자동 얼굴인식 스티커, 이모지로 얼굴 가리기!"
+        },
+        "ja":{
+          "title":"絵文字ボックス EMOJIBOX",
+          "description":"自動識別で顔かくしスタンプ"
+        }
+      }
+    },
+    {
+      "iconImageURLString":"https://likoapps.github.io/apps/calmaker.png",
+      "appURLString":"https://apps.apple.com/app/id1602669715",
+      "appIdentifier":"com.likoapps.photoCalendarMaker",
+      "appScheme":"calmaker",
+      "infos":{
+        "en":{
+          "title":"CALMAKER: Photo Calendar Maker",
+          "description":"Wallpaper & Printable Calendar"
+        },
+        "ko":{
+          "title":"CALMAKER - 포토 캘린더 메이커",
+          "description":"DIY 나만의 사진 달력, 배경화면 만들기"
+        },
+        "ja":{
+          "title":"CALMAKER - フォトカレンダーメーカー",
+          "description":"カレンダー壁紙作り, オリジナルカレンダー作り"
+        }
+      }
+    },
+    {
+      "iconImageURLString":"https://likoapps.github.io/apps/highscore.png",
+      "appURLString":"https://apps.apple.com/app/id1617645877",
+      "appIdentifier":"com.likoapps.highScoreWorkoutSession",
+      "appScheme":"highscore",
+      "infos":{
+        "en":{
+          "title":"HighScore: Workout",
+          "description":"WORKOUT RESULTS AS A SCORE!"
+        },
+        "ko":{
+          "title":"하이스코어: 워크아웃",
+          "description":"운동 결과를 점수로!"
+        },
+        "ja":{
+          "title":"ハイスコア: ワークアウト",
+          "description":"運動結果をスコアに！"
+        }
+      }
+    }
+  ]
+}
