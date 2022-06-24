@@ -21,7 +21,7 @@
       }
     }
   },
-  "appDatas":[
+"appDatas":[
     {
       "iconImageURLString":"https://likoapps.github.io/apps/emojibox.png",
       "appURLString":"https://apps.apple.com/app/id1624326541",
@@ -30,15 +30,15 @@
       "infos":{
         "en":{
           "title":"EMOJIBOX: Face Sticker",
-          "description":"Cover face, Show emotions"
+          "description":"Cover face with auto detection"
         },
         "ko":{
           "title":"EMOJIBOX 이모지박스",
-          "description":"자동 얼굴인식 스티커, 이모지로 얼굴 가리기!"
+          "description":"이모지 얼굴 스티커앱"
         },
         "ja":{
           "title":"絵文字ボックス EMOJIBOX",
-          "description":"自動識別で顔かくしスタンプ"
+          "description":"絵文字スタンプで顔隠しアプリ"
         }
       }
     },
@@ -70,15 +70,15 @@
       "infos":{
         "en":{
           "title":"HighScore: Workout",
-          "description":"WORKOUT RESULTS AS A SCORE!"
+          "description":"Workout Results as a score! (for Watch)"
         },
         "ko":{
           "title":"하이스코어: 워크아웃",
-          "description":"운동 결과를 점수로!"
+          "description":"운동 결과를 점수로 (워치앱)"
         },
         "ja":{
           "title":"ハイスコア: ワークアウト",
-          "description":"運動結果をスコアに！"
+          "description":"運動結果をスコアに！(ウォッチアプリ)"
         }
       }
     }
