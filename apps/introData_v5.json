@@ -61,7 +61,7 @@
           "description":"絵文字スタンプで顔隠しアプリ"
         }
       },
-      "exposeCondition": []
+      "exposeConditions": []
     },
     {
       "iconImageURLString":"https://likoapps.github.io/apps/calmaker.png",
@@ -82,7 +82,7 @@
           "description":"カレンダー壁紙作り, オリジナルカレンダー作り"
         }
       },
-      "exposeCondition": []
+      "exposeConditions": []
     },
     {
       "iconImageURLString":"https://likoapps.github.io/apps/highscore.png",
@@ -103,7 +103,7 @@
           "description":"運動結果をスコアに！(ウォッチアプリ)"
         }
       },
-      "exposeCondition": ["watch"]
+      "exposeConditions": ["watch"]
     }
   ]
 }
