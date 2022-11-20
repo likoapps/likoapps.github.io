@@ -8,9 +8,9 @@ We’re a small team making apps for iPhone, iPad and Apple Watch.
 
 ## Our apps
 
-### 1. EMOJIBOX: Face Sticker
+### 1. EmojiBox: Blurry & Emoji Face
   <img src="https://likoapps.github.io/apps/emojibox.png" width=150><br>
-  Cover face, Show emotions 
+  Censor-Sticker, Blur, Pixelate
 
   <a href="https://apps.apple.com/app/id1624326541">Download</a>
 
