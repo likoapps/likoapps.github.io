@@ -49,16 +49,16 @@
       "appScheme":"emojibox",
       "infos":{
         "en":{
-          "title":"EMOJIBOX: Face Sticker",
-          "description":"Cover face with auto detection"
+          "title":"EmojiBox: Blurry & Emoji Face",
+          "description":"Censor-Sticker, Blur, Pixelate"
         },
         "ko":{
-          "title":"EMOJIBOX 이모지박스",
-          "description":"이모지 얼굴 스티커앱"
+          "title":"이모지박스 - 자동 얼굴가리기 사진편집",
+          "description":"이모지 스티커, 블러, 모자이크"
         },
         "ja":{
-          "title":"絵文字ボックス EMOJIBOX",
-          "description":"絵文字スタンプで顔隠しアプリ"
+          "title":"絵文字ボックス - 自動で顔隠し加工",
+          "description":"絵文字スタンプ、ぼかし、モザイク、渦巻き、写真加工"
         }
       },
       "exposeConditions": []
