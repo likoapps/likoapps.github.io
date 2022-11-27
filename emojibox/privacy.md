@@ -1,18 +1,18 @@
 ---
-description: "EMOJIBOX: Privacy Policy"
+description: "EmojiBox: Privacy Policy"
 ---
 
 # Privacy Policy
 
 Thank you for using the service of liko apps (CEO Junhyun Song)(“Company”). 
 
-This page is the privacy policy of EmojiBox: Face Sticker(or EMOJIBOX, emojibox, EmojiBox, "Service”) serviced by liko apps(CEO Junhyun Song). This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This page is the privacy policy of EmojiBox("Service”) serviced by liko apps(CEO Junhyun Song). This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-These terms and conditions are effective as of 2022-06-07
+These terms and conditions are effective as of 2022-11-20
  
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. Therefore, you should read its privacy policy carefully before using the app. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at EmojiBox: Face Sticker unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at EmojiBox unless otherwise defined in this Privacy Policy.
  
 Purpose of processing personal information
 This service is an application that does not collect personal information and does not operate a separate server. "Company" may collect non-personally identifiable information that is not directly related to a specific individual in order to provide "service" stably.
@@ -60,7 +60,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
  
 ---
  
-This policy is effective as of 2022-06-07
+This policy is effective as of 2022-11-20
  
 ### Contact Us
  
