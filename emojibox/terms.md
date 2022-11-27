@@ -1,5 +1,5 @@
 ---
-description: "EMOJIBOX: Face Sticker - Terms & Conditions"
+description: "EmojiBox - Terms & Conditions"
 ---
 
 # Terms & Conditions
@@ -8,7 +8,7 @@ Thank you for using the service of liko apps (CEO Junhyun Song, “Company” or
 Downloading or using the app automatically applies these terms and conditions. Therefore, you should read the terms and conditions carefully before using the app.
 
 ## 1. Purpose of Terms & Conditions
-EMOJIBOX: Face Sticker Terms and Conditions are written to stipulate the conditions and procedures, rights, obligations, responsibilities, and other necessary matters between the company and the user regarding the use of the EMOJIBOX: Face Sticker app service(or EMOJIBOX, emojibox, EmojiBox, "Service”)  between the company and the user in relation to the EMOJIBOX service provided by liko apps.
+EmojiBox Terms and Conditions are written to stipulate the conditions and procedures, rights, obligations, responsibilities, and other necessary matters between the company and the user regarding the use of the EmojiBox app service("Service”) between the company and the user in relation to the EmojiBox service provided by liko apps.
 
 ## 2. Definition of terms
 Definitions of terms used in these terms and conditions are as follows.
@@ -83,8 +83,8 @@ In case the company reasonably determines that it is necessary other than those 
 - (4) The Company is not responsible for any problems arising from service change or suspension.
 
 ## 12. Content
-- (1) Unless otherwise stated, all materials contained on or within the Services, including, but not limited to, text, graphics, images, code, illustrations, designs, icons, photographs, video clips, and written and other materials ("Content"), as well as their selection and arrangement, are protected by copyright, trademark, trade dress, patent, and/or other intellectual property laws. Unauthorized use of EMOJIBOX Content may violate such laws and these Terms. 
-- (2) Except as expressly provided in these Terms, liko apps does not grant any express or implied rights to use EMOJIBOX Content. You agree that you will not copy, reproduce, republish, frame, download, transmit, modify, display, reverse engineer, sell, or participate in any sale of, rent, lease, loan, assign, distribute, license, sublicense, or exploit in any way, in whole or in part, EMOJIBOX Content, the Services, or any related software, except as expressly stated in these Terms.
+- (1) Unless otherwise stated, all materials contained on or within the Services, including, but not limited to, text, graphics, images, code, illustrations, designs, icons, photographs, video clips, and written and other materials ("Content"), as well as their selection and arrangement, are protected by copyright, trademark, trade dress, patent, and/or other intellectual property laws. Unauthorized use of EmojiBox Content may violate such laws and these Terms. 
+- (2) Except as expressly provided in these Terms, liko apps does not grant any express or implied rights to use EmojiBox Content. You agree that you will not copy, reproduce, republish, frame, download, transmit, modify, display, reverse engineer, sell, or participate in any sale of, rent, lease, loan, assign, distribute, license, sublicense, or exploit in any way, in whole or in part, EmojiBox Content, the Services, or any related software, except as expressly stated in these Terms.
 
 ## 13. User Content
 - (1) The Services consist of interactive features and areas that allow users to create, post, transmit, and/or store content, including but not limited to photos, videos, text, graphics, items, or other materials (collectively, "User Content").
@@ -123,6 +123,8 @@ The Service contains emoji, emoji fonts, and face sticker content (“Emoji Cont
 
 * [Tossface](https://toss.im/tossface/copyright)
 * [Twemoji](https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS)
+* [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji/commit/f7abf9645ce10d923fb5e8bccf62e0ffae47b999)
+* [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE)
 
 In addition, the following actions are prohibited.
 
@@ -157,7 +159,7 @@ Except where prohibited by law, in no event will the Company be liable for any i
 - (3) The Korean version of these Terms & Conditions is the version used when interpreting or construing this Agreement.
 
 ---
-### Effective: JUNE 7, 2022
+### Effective: November 20, 2022
 
 
 ### Contact Us
