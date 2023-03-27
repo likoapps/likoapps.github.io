@@ -49,11 +49,11 @@
       "appScheme":"emojibox",
       "infos":{
         "en":{
-          "title":"EmojiBox: Blurry & Emoji Face",
-          "description":"Censor-Sticker, Blur, Pixelate"
+          "title":"EmojiBox: Auto face censor",
+          "description":"Emoji Stickers, Blur, Mosaic"
         },
         "ko":{
-          "title":"이모지박스 - 자동 얼굴가리기 사진편집",
+          "title":"이모지박스 - 자동 얼굴 가리기 사진편집 앱",
           "description":"이모지 스티커, 블러, 모자이크"
         },
         "ja":{
