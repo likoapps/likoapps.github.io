@@ -43,6 +43,29 @@
   ],
   "appDatas":[
     {
+      "iconImageURLString":"https://likoapps.github.io/apps/mathquest.png",
+      "appURLString":"https://apps.apple.com/app/id6446220503",
+      "appIdentifier":"com.likoapps.mathquest",
+      "appScheme":"mathquest",
+      "infos":{
+        "en":{
+          "title":"MathQuest: Number Puzzle",
+          "description":"Calculation Brain Training"
+        },
+        "ko":{
+          "title":"계산의 신 - 수학 퀘스트",
+          "description":"두뇌가 말랑해지는 숫자계산 퍼즐! 암산 훈련 퀴즈"
+        },
+        "ja":{
+          "title":"数学クエスト: 計算の達人",
+          "description":"数字パズルで脳トレ！計算力をアップ！"
+        }
+      },
+      "exposeConditions":[
+        
+      ]
+    },
+    {
       "iconImageURLString":"https://likoapps.github.io/apps/emojibox.png",
       "appURLString":"https://apps.apple.com/app/id1624326541",
       "appIdentifier":"com.likoapps.emojiBox",
@@ -61,7 +84,9 @@
           "description":"絵文字スタンプ、ぼかし、モザイク、渦巻き、写真加工"
         }
       },
-      "exposeConditions": []
+      "exposeConditions":[
+        
+      ]
     },
     {
       "iconImageURLString":"https://likoapps.github.io/apps/calmaker.png",
@@ -82,7 +107,9 @@
           "description":"カレンダー壁紙作り, オリジナルカレンダー作り"
         }
       },
-      "exposeConditions": []
+      "exposeConditions":[
+        
+      ]
     },
     {
       "iconImageURLString":"https://likoapps.github.io/apps/highscore.png",
@@ -103,7 +130,9 @@
           "description":"運動結果をスコアに！(ウォッチアプリ)"
         }
       },
-      "exposeConditions": ["watch"]
+      "exposeConditions":[
+        "watch"
+      ]
     }
   ]
 }
